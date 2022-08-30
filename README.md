@@ -2,7 +2,8 @@
     <a href="https://www.linkedin.com/in/harsh-vardhan-gupta-1632a01b7/"><img src="https://th.bing.com/th/id/R.6e154f80072e0f134105ec35599d74a6?rik=UvWo5zE1ezAHlg&riu=http%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2flinkedIn_PNG24.png&ehk=veq8XBJMI1epEE3nPbaJnSO9W0JTzrhwNTFwUom87w8%3d&risl=&pid=ImgRaw&r=0" style="width: 50px;height: 50px ;"></a>
 
 
-    <a href="https://spring.io/projects/spring-boot"><img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png style="width: 50px;height: 50px ;"></a>
+    <a href="https://spring.io/projects/spring-boot">![spring-boot-logo](https://user-images.githubusercontent.com/85693353/187533965-813171d7-64bb-4ebc-b526-2a6b39a7e520.png)
+</a>
 
 
 
