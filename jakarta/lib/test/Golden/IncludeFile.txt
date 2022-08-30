@@ -1,3 +1,0 @@
-LINE1
-FOO
-LINE2

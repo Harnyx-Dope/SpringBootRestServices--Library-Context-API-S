@@ -1,7 +1,0 @@
-<html>
-  <body>
-
-pageContext set
-
-  </body>
-</html>

@@ -1,7 +1,0 @@
-<html>
-  <body>
-
-page set
-
-  </body>
-</html>

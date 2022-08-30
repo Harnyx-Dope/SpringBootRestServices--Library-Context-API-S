@@ -1,3 +1,0 @@
-FORWARDWITHQUERYTARGET
-city=Cupertino&age=100000&name=Sun Microsystems
-
